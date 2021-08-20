@@ -1,0 +1,1 @@
+ALTER TABLE `flight` ADD `cancel_Time` datetime;

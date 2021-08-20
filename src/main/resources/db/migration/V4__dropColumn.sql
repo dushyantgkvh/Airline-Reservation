@@ -1,0 +1,1 @@
+ALTER TABLE `users` DROP column  `confirm_password`;
